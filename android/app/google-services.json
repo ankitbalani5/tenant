@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542029882554",
+    "project_id": "btroomerzucol",
+    "storage_bucket": "btroomerzucol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542029882554:android:565762b2a8f3da9f670e83",
+        "android_client_info": {
+          "package_name": "com.zucolgroup.btroomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3q97B3K_PRzV2s8utW43uUPuzFGP1vnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542029882554:android:e5a63b125a89606a670e83",
+        "android_client_info": {
+          "package_name": "com.zucolgroup.tenant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3q97B3K_PRzV2s8utW43uUPuzFGP1vnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

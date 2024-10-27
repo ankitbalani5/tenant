@@ -1,0 +1,41 @@
+<svg width="32" height="39" viewBox="0 0 32 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M27.9913 3.59998H4.05737V35.6H27.9913V3.59998Z" fill="#999FC2"/>
+<path d="M29.4463 31.6331H3V35.6H29.4463V31.6331Z" fill="#8087AB"/>
+<path d="M21.2476 12.5912H10.8013V31.7647H21.2476V12.5912Z" fill="#403C4E"/>
+<path d="M20.7189 13.2533H11.1982V31.1045H20.7189V13.2533Z" fill="#863630"/>
+<g style="mix-blend-mode:multiply" opacity="0.6">
+<path d="M21.5128 14.5755H8.42188L9.47973 11.0052V12.592H22.5706L21.5128 14.5755Z" fill="#8087AB"/>
+</g>
+<path d="M22.5702 11.0052H9.47925V12.592H22.5702V11.0052Z" fill="#EEBD85"/>
+<path d="M23.0985 31.6331H8.94971V33.6165H23.0985V31.6331Z" fill="#EEBD85"/>
+<path d="M25.4796 33.6166H6.57056V35.6H25.4796V33.6166Z" fill="#EEBD85"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path d="M10.8012 14.7069L17.1483 15.897C17.1483 15.897 17.545 24.3598 18.2061 31.7647H21.1152V12.5912H10.6689V14.7069H10.8012Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M14.636 13.9144H12.5203V21.0549H14.636V13.9144Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M17.0168 13.9144H14.9011V21.0549H17.0168V13.9144Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M19.5285 13.9144H17.4128V21.0549H19.5285V13.9144Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M14.636 22.1127H12.5203V29.2532H14.636V22.1127Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M17.0168 22.1127H14.9011V29.2532H17.0168V22.1127Z" fill="#8087AB"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.3">
+<path d="M19.5285 22.1127H17.4128V29.2532H19.5285V22.1127Z" fill="#8087AB"/>
+</g>
+<path d="M12.1245 22.5094C12.3436 22.5094 12.5212 22.2726 12.5212 21.9805C12.5212 21.6883 12.3436 21.4515 12.1245 21.4515C11.9054 21.4515 11.7278 21.6883 11.7278 21.9805C11.7278 22.2726 11.9054 22.5094 12.1245 22.5094Z" fill="#EEBD85"/>
+<path d="M29.4463 3.59998H3V7.43469H29.4463V3.59998Z" fill="#EEBD85"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path d="M4.05737 9.68229L27.9913 7.96328V7.30212H4.05737V9.68229Z" fill="#999FC2"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path d="M29.4463 6.6413V7.43469H3V3.59998H5.1157L5.64463 5.45122L29.4463 6.6413Z" fill="#EEBD85"/>
+</g>
+</svg>
